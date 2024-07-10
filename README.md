@@ -38,7 +38,7 @@ This research introduces a real-time network anomaly detection model using Apach
 ____________
 ## System Implementation and Testing
 
-Implementation
+1. Implementation
 
 - Data Collection and Preprocessing
 
@@ -55,6 +55,7 @@ Apache Spark's machine learning capabilities were used to develop intrusion dete
 - Model Evaluation
 
 Models were evaluated using metrics such as accuracy, precision, recall, and F1-score. Cross-validation and hyperparameter tuning ensured robustness.
+
 2. Testing
 
 - Real-Time Analysis
